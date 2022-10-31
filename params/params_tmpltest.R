@@ -10,6 +10,6 @@ sig2 <- 3.1415
 species.name <- "Ablah"
     
 # e.g. "red"    
-color <- brown1
+color <- "brown1"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
